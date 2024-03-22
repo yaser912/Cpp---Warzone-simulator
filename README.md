@@ -2,7 +2,7 @@
 Collaborative C++ project to simulate a popular web based strategy game called Warzone. 
 
 
-The specific project for this semester consists in building a simple “Risk” computer game. The developed program
+The specific project consists in building a simple “Risk” computer game. The developed program
 will have to be compatible with the rules and map files and the command-line play of the “Warzone” version of
 Risk, which can be found at: https://www.warzone.com/. A Warzone game setup consists of a connected graph
 map representing a world map, where each node is a country and each edge represents adjacency between
